@@ -17,9 +17,9 @@ API integrations
 ----
 My background 
 6+ years @ Sabre Corporation
-├── Systems Integration Specialist  (2022–2026)
-├── Level II Technical Support       (2021–2022)
-└── Level I Technical Support        (2019–2021)
+Systems Integration Specialist  (2022–2026)
+Level II Technical Support       (2021–2022)
+Level I Technical Support        (2019–2021)
 
 Some tools i'm familiar using in my day to day:
 Jira - Salesforce - Kibana - Looker Studio - Rally - Oracle SQL Developer - GCP 
