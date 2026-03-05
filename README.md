@@ -3,7 +3,7 @@
 <!--
 **Lativo-Labs/lativo-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-*Alledgedly* Systems Integration Engineer - I spent 6+ years keeping a mission-critical enterprise SaaS platform running for 200,000+ users — managing monthly releases, resolving production incidents, and acting as the bridge between customers and engineering.
+##*Alledgedly* Systems Integration Engineer - I spent 6+ years keeping a mission-critical enterprise SaaS platform running for 200,000+ users — managing monthly releases, resolving production incidents, and acting as the bridge between customers and engineering.
 
 Now I'm channeling my inner systems-thinking background into AI-native ideas and projects. 
 
